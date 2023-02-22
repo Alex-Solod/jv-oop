@@ -10,3 +10,4 @@ public class Bulldozer extends Machine {
         System.out.println("Bulldozer stop working.");
     }
 }
+
